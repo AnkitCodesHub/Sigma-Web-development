@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/AnkitCodesHub/Sigma-Web-development#readme",
   "dependencies": {
+    "ejs": "^4.0.1",
     "express": "^4.22.1"
   }
 }
