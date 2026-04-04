@@ -1,13 +1,8 @@
 {
-  "dependencies": {
-    "@tailwindcss/cli": "^4.2.2",
-    "tailwindcss": "^4.2.2"
-  },
   "name": "sigma-web-development",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/AnkitCodesHub/Sigma-Web-development/issues"
   },
-  "homepage": "https://github.com/AnkitCodesHub/Sigma-Web-development#readme"
+  "homepage": "https://github.com/AnkitCodesHub/Sigma-Web-development#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.2.2",
+    "tailwindcss": "^4.2.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.2",
+    "postcss": "^8.5.8"
+  }
 }
