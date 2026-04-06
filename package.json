@@ -1,0 +1,24 @@
+{
+  "name": "sigma-web-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkitCodesHub/Sigma-Web-development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AnkitCodesHub/Sigma-Web-development/issues"
+  },
+  "homepage": "https://github.com/AnkitCodesHub/Sigma-Web-development#readme",
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
