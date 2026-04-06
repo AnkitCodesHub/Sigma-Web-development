@@ -5,6 +5,7 @@
   "main": "main.js",
   "dependencies": {
     "detect-libc": "^2.1.2",
+    "ejs": "^5.0.1",
     "enhanced-resolve": "^5.20.1",
     "express": "^4.22.1",
     "graceful-fs": "^4.2.11",
